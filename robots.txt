@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuezucaegi.uselect.org/sitemap.xml
